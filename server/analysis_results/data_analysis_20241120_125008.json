@@ -1,0 +1,28 @@
+{
+  "filename": "data.csv",
+  "analysis_date": "20241120_125008",
+  "kpis": {
+    "Total Sales Revenue": 275230.0,
+    "Average Order Value": 275.23,
+    "Total Quantity Sold": 8162,
+    "Average Item Price": 33.315,
+    "Revenue by Item Type": {
+      "Beverages": 86390,
+      "Fastfood": 188840
+    },
+    "Lead Time Efficiency": -31,
+    "Customer Satisfaction Rate": 50.0,
+    "Preferred Transaction Method": {
+      "Cash": 583,
+      "Online": 417
+    },
+    "Repeat Purchase Rate": 49900.0,
+    "Sales Peak Times": {
+      "Night": 205,
+      "Afternoon": 205,
+      "Evening": 201,
+      "Midnight": 199,
+      "Morning": 190
+    }
+  }
+}
